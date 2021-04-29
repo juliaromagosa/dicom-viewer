@@ -33,6 +33,4 @@ displayed in the terminal.
 python app.py
 ```
 
-## Screenshot
 
-![Screenshot of app](assets/screenshot.png)
