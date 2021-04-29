@@ -1,10 +1,10 @@
-# Dash Bounding Box Image Annotation
+# DICOM VIEWER
 
 ## About this app
 
-This shows how Dash can be used to make an application that collects annotations
-of the content in parts of images. These bounding-box annotations could be
-downloaded and used to train an image content classifier.
+This app aims to provide a functional tool for DICOM images visualization, allowing to annotate and store data.
+
+
 
 ## How to run this app locally
 
