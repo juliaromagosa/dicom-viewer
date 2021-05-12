@@ -3,7 +3,7 @@
 ## About this app
 
 This app aims to provide a functional tool for DICOM images visualization, allowing to annotate and store data.
-Three diferent MRI techniques are shown simultaneously for each patient in the database, in order to perform a complete prostate study.
+Three diferent MRI techniques are shown simultaneously for each patient in the database, in order to analyse a complete prostate study.
 
 
 
