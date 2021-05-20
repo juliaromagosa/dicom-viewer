@@ -337,8 +337,8 @@ button_gh = dbc.Button(
 button_howto = dbc.Button(
     "View Code on github",
     outline=True,
-    color="primary",
-    href="https://github.com/plotly/dash-sample-apps/tree/master/apps/dash-image-annotation",
+    color="secondary",
+    href="https://github.com/juliaromagosa/dicom-viewer",
     id="gh-link",
     style={"text-transform": "none"},
 )
@@ -946,7 +946,7 @@ navbar = dbc.Navbar(
                         dbc.NavbarToggler(id="navbar-toggler"),
                         dbc.Collapse(
                             dbc.Nav(
-                                [dbc.NavItem(button_howto)],
+                                [dbc.NavItem(button_howto),dbc.NavItem(button_gh)],
                                 className="ml-auto",
                                 navbar=True,
                             ),
