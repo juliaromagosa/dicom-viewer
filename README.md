@@ -35,3 +35,8 @@ python3 app.py
 ```
 
 
+## How to use this app
+On the top right corner there is a "How to button" which the instructions needed to use the app
+<img width="925" alt="Captura de pantalla 2021-05-31 a las 20 45 36" src="https://user-images.githubusercontent.com/82100961/120231212-37d86480-c251-11eb-8606-641fc3498812.png">
+
+
