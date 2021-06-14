@@ -13,7 +13,11 @@ Three diferent MRI techniques are shown simultaneously for each patient in the d
 
 Clone this repository and navigate to the directory containing this `README` in
 a terminal.
-python3 -m pip install --upgrade pip
+
+Make sure you have installed the latest version of pip to install the files
+
+```python3 -m pip install --upgrade pip```
+
 Create and activate a virtual environment (recommended):
 
 ```bash
