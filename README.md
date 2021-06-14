@@ -13,24 +13,24 @@ Three diferent MRI techniques are shown simultaneously for each patient in the d
 
 Clone this repository and navigate to the directory containing this `README` in
 a terminal.
-
+python3 -m pip install --upgrade pip
 Create and activate a virtual environment (recommended):
 
 ```bash
-python3 -m venv myvenv
+python -m venv myvenv
 source myvenv/bin/activate
 ```
 
 Install the requirements
 
 ```bash
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 Run the app. An IP address where you can view the app in your browser will be
 displayed in the terminal.
 
 ```bash
-python3 app.py
+python app.py
 ```
 
