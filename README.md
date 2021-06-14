@@ -16,7 +16,8 @@ a terminal.
 
 Make sure you have installed the latest version of pip to install the files
 
-```python3 -m pip install --upgrade pip
+```bash
+python3 -m pip install --upgrade pip
 ```
 
 Create and activate a virtual environment (recommended):
