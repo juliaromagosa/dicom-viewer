@@ -14,7 +14,7 @@ Three diferent MRI techniques are shown simultaneously for each patient in the d
 Clone this repository and navigate to the directory containing this `README` in
 a terminal.
 
-Make sure you have installed the latest version of pip to install the files
+Make sure you have installed the latest version of pip
 
 ```bash
 python3 -m pip install --upgrade pip
