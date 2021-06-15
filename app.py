@@ -985,8 +985,6 @@ app.layout = html.Div(
                 ]
             ),
 
-            html.P(id='placeholder'),
-            html.Div(id='container-button-basic'),
 
         ],
             fluid=True,
